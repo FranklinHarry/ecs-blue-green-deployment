@@ -1,3 +1,5 @@
+# **UPDATE:** ECS now supports native blue/green deployments. Please refer to the [documentation](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/deployment-type-blue-green.html) for the latest information. This [repository](https://github.com/aws-samples/sample-amazon-ecs-blue-green-deployment-patterns/) contains sample code that will familiarize you with the feature. 
+
 # **NOTE:** Same reference architecture, but using [AWS Fargate](https://aws.amazon.com/fargate/) is available in [fargate branch](https://github.com/awslabs/ecs-blue-green-deployment/tree/fargate)
 
 # Blue/Green deployments on ECS
